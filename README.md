@@ -1,4 +1,4 @@
-# Hi, I'm Dr. Inam Ullah Khan 👋
+# Hi, I'm Dr. Inam Khan 👋
 
 🔬 **Provost Fellow** | Bobby B. Lyle School of Engineering, Souther Methodist University, Dallas, Texas, USA  
 📍 Dallas, Texas | 📧 inamullah@ieee.org
