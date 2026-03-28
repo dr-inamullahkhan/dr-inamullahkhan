@@ -32,9 +32,11 @@ My work bridges data-driven modeling and real-world infrastructure challenges.
 - **IEEE Transactions on Engineering Management** – Graph learning framework for innovation ecosystems
 - **IEEE Transactions on Computational Social Systems** – Innovation productivity in U.S. cities (PSO-XGBoost)
 - **IEEE Transactions on Instrumentation & Measurement** – Electricity theft detection, 2025
+- **IEEE Transactions on Power Systems** – Electricity theft detection, 2023
+- **IEEE Transactions on Smart Grid** – Electricity theft detection, 2022
 - **Elsevier Energy** – Stacked ensemble learning for load forecasting, 2025
 
-📖 20+ publications | 450+ citations | [Google Scholar](https://scholar.google.com/citations?user=Rjj2sDMAAAAJ&hl=en)
+📖 20+ publications | 500+ citations | [Google Scholar](https://scholar.google.com/citations?user=Rjj2sDMAAAAJ&hl=en)
 
 ---
 
