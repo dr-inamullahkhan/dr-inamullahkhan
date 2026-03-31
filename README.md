@@ -43,6 +43,6 @@ My work bridges data-driven modeling and real-world infrastructure challenges.
 ## 🌐 Connect With Me
 
 [![Website](https://img.shields.io/badge/Website-dr--inamullahkhan.github.io-blue)](https://dr-inamullahkhan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/inam-ullah-aa372a35)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/inam-khan-aa372a35/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?logo=googlescholar)](https://scholar.google.com/citations?user=Rjj2sDMAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8130--3016-green?logo=orcid)](https://orcid.org/0000-0002-8130-3016)
